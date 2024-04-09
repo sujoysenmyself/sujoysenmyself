@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQEkzfg9bJFMCQ/profile-displaybackgroundimage-shrink_350_1400/0/1712655952824?e=1718236800&v=beta&t=ZioFOIc4hXI0_z3vut2dVNl9xIljiBy954eiftfKrUM" alt="MasterHead" style="width:100%;">
+![MasterHead](https://github.com/sujoysenmyself/sujoysenmyself/blob/main/github-header-image%20(2).png)
 
 <h1 align="center">Hi 👋, I'm Sujoy Sen</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
